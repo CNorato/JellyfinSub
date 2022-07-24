@@ -11,9 +11,17 @@
                 "version": "1.0.4.0",
                 "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
                 "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/thunder-subtitles/thunder-subtitles_1.0.4.0.zip",
+                "sourceUrl": "https://github.com/CNorato/JellyfinSub/raw/main/subs/thunder-subtitles_1.0.4.0.zip",
                 "checksum": "06876b80a6655a9d14e7257b8233bb64",
                 "timestamp": "2022-01-07T09:29:33Z"
+            },
+	    {
+                "version": "1.0.8.0",
+                "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/CNorato/JellyfinSub/raw/main/subs/MeiamSub.Thunder_1.0.8.0.zip",
+                "checksum": "b8e7c5361eaf6f7d263e0e06fa317691",
+                "timestamp": "2022-07-24T09:29:33Z"
             }
         ]
     },
@@ -29,9 +37,17 @@
                 "version": "1.0.4.0",
                 "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
                 "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/shooter-subtitles/shooter-subtitles_1.0.4.0.zip",
+                "sourceUrl": "https://github.com/CNorato/JellyfinSub/raw/main/subs/shooter-subtitles_1.0.4.0.zip",
                 "checksum": "66223e42fb79064f88cdc3ca47f87556",
                 "timestamp": "2022-01-07T08:39:45Z"
+            },
+	    {
+                "version": "1.0.8.0",
+                "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/CNorato/JellyfinSub/raw/main/subs/MeiamSub.Shooter_1.0.8.0.zip",
+                "checksum": "8b81becd18571c2f991b121f006482f3",
+                "timestamp": "2022-07-24T09:29:33Z"
             }
         ]
     }
